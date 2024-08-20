@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Data Structure & Algorithms using JavaScript**
+- 🌱 I’m currently learning more on ReactJS, NodeJS & ExpressJS**
 
 - 💬 Ask me about **MERN, JavaScript, DevOps**
 
