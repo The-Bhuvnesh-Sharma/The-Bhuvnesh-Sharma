@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently learning more on ReactJS, NodeJS & ExpressJS**
-
-- 💬 Ask me about **MERN, JavaScript, DevOps**
+- 🌱 I’m an experienced **Backend Developer** with expertise in **Node.js, Express.js, and building scalable APIs**
+ 
+- 💬 Ask me about **MERN, JavaScript, Backend Architecture, and DevOps**
 
 - 📫 How to reach me **Bhuvi844964@gmail.com**
 
